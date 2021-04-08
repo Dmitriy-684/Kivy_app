@@ -5,12 +5,7 @@ from kivy.uix.codeinput import CodeInput
 
 from kivy.config import Config
 
-Config.getint('kivy', 'show_fps')
 
-
-Config.set('graphics', 'resizable', '0');
-Config.set('graphics', 'width', '100')
-Config.set('graphics', 'height', '100')
 
 
 class MyApp(App):
