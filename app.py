@@ -26,3 +26,12 @@ class MyApp(App):
 
 if __name__ == '__main__':
     MyApp().run()
+
+
+class dick():
+    def suck(self):
+        print("suck")
+
+class sperma(dick):
+    def chmo(self):
+        print('Я гандон')
